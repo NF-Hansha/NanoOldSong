@@ -36,7 +36,10 @@
   - [ ] 其他
 - 其他
   - [ ] 契丹小字
-  
+> [!IMPORTANT]
+>
+> **增加字形和修改字形请点[这里](https://github.com/NF-Hansha/NanoOldSong/issues/1)**
+
 ## 字体授权
 授权协议与原字体保持一致：
 > **■匯文明朝體授權聲明**
