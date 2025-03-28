@@ -4,7 +4,7 @@
 
 > [!TIP]
 >
-> 此字体的版本高于v1.0，想使用v1.1之前版本请到[这里](https://github.com/Hansha2011/NanoOldSong/)下载~
+> 此仓库因为原作者的2fa找回所以与本仓库合并，请点击[这里](https://github.com/Hansha2011/NanoOldSong)进入原字体主仓库
 
 ## 简介
 基于汇文明朝制作的补充字体,搭配遍玨体复合修改
